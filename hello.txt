@@ -6,6 +6,3 @@ hello world from hered
 hello world from here
 hello world from here
 hello world from here
-hello world from here
-hello world from here
-hello world from here
